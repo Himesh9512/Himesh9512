@@ -10,7 +10,6 @@
 </p>
 <div size='20px'>I'm Himesh Suthar🙃, and I'm an ambitious full stack web developer🧑‍💻 presently pursuing my degree in IT engineering🚀.  
 </div>
-a
 
 
 
