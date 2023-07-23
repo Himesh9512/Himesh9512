@@ -28,9 +28,9 @@ I am dedicated to my learning journey and has shown great enthusiasm and passion
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on CV-generator app and other projects.....
+- 🔭 I’m currently working on Node related projects.....
 
-- 🌱 I’m currently learning React js and typescript..... 
+- 🌱 I’m currently learning Node js with MERN stack..... 
 
 - 💬 Talk to me about anything related to Web development and related technologies..... 
 
@@ -51,7 +51,7 @@ I am dedicated to my learning journey and has shown great enthusiasm and passion
   
 <h3> Tools </h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,git,github,linux,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,webpack" />
 </a>
   
 <h2> Connect with me </h2>
