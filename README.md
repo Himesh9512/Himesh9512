@@ -9,16 +9,16 @@
 
 </p>
 <div size='20px'>
-I'm Himesh Suthar🙃, and I'm an ambitious full stack web developer🧑‍💻 presently pursuing my diploma in IT engineering🚀.     
+I'm Himesh Suthar🙃, and I'm an ambitious Software developer🧑‍💻 presently pursuing my diploma in IT engineering🚀.     
 </div>
 <p align='center'>
 
 </p>
-<div size='20px'>I am actively engaged in learning web development for the past few months⌛. During this time, I have been expanding my knowledge and skills in this field by studying various programming languages, frameworks, and tools🤓. I have taken online courses, watched tutorials to improve my understanding and application of web development concepts.
+<div size='20px'>I am actively engaged in learning web development for the past few months⌛. During this time, I have been expanding my knowledge and skills in this field by studying various programming languages, frameworks, and tools🤓. I have taken online courses, watched tutorials to improve my understanding and application of development concepts.
 <p align='center'>
 
 </p>
-I am dedicated to my learning journey and has shown great enthusiasm and passion for web development. With months of focused learning under my belt, I am well on my way to becoming a proficient web developer.  
+I am dedicated to my learning journey and has shown great enthusiasm and passion for software development. With months of focused learning under my belt, I am well on my way to becoming a proficient developer.  
 </div>
 
 
