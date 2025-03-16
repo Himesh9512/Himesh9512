@@ -9,30 +9,19 @@
 
 </p>
 <div size='20px'>
-I'm Himesh Suthar🙃, and I'm an ambitious Software developer🧑‍💻 presently pursuing my diploma in IT engineering🚀.     
+I'm Himesh Suthar🙃, I'm a web developer who loves building and exploring new technologies. Always learning something new and pushing my skills to the next level! 🚀     
 </div>
-<p align='center'>
-
-</p>
-<div size='20px'>I am actively engaged in learning web development for the past few months⌛. During this time, I have been expanding my knowledge and skills in this field by studying various programming languages, frameworks, and tools🤓. I have taken online courses, watched tutorials to improve my understanding and application of development concepts.
-<p align='center'>
-
-</p>
-I am dedicated to my learning journey and has shown great enthusiasm and passion for software development. With months of focused learning under my belt, I am well on my way to becoming a proficient developer.  
-</div>
-
-
 
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on MERN related projects.....
+- 🔭 I’m currently working on Web Related projects.....
 
-- 🌱 I’m currently learning Node/Express with MERN stack..... 
+- 🌱 I’m currently learning Node/Express with MERN stack.....
 
-- 💬 Talk to me about anything related to Web development and related technologies..... 
+- 💬 Talk to me about anything related to programming and related technologies..... 
 
 
 
@@ -46,7 +35,7 @@ I am dedicated to my learning journey and has shown great enthusiasm and passion
   
 <h3> Frontend </h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,react,materialui,tailwind" />
+    <img src="https://skillicons.dev/icons?i=babel,react,materialui,tailwind,angular,nextjs" />
 </a>
 
 <h3> Backend </h3>
@@ -56,7 +45,7 @@ I am dedicated to my learning journey and has shown great enthusiasm and passion
 
 <h3> Tools </h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,webpack" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,webpack,webflow" />
 </a>
   
 <h2> Connect with me </h2>
