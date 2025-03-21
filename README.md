@@ -55,7 +55,11 @@ I'm Himesh Suthar🙃, I'm a web developer who loves building and exploring new 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='15px' height=15px> </h2>
 
-![Metrics](https://metrics.lecoq.io/Himesh9512?template=classic&config.timezone=America%2FToronto)
+![Himesh9512's Stats](https://github-readme-stats.vercel.app/api?username=Himesh9512&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
+![Himesh9512's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Himesh9512&theme=tokyonight&hide_border=false)
+
+![Himesh9512's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Himesh9512&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
