@@ -1,9 +1,3 @@
-<div align="center">
-<img width="100%" height = "100%" src="./banner.gif" alt="cover" />
-</div>
-
-
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
